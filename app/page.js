@@ -82,7 +82,7 @@ export default function Home() {
           <span className="flex mx-auto gap-3 sm:gap-4 items-center">
             with
             <Image
-              src={"/log5.png"}
+              src={"/logo6.png"}
               alt="Zscrum Logo"
               width={400}
               height={80}
